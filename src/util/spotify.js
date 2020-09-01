@@ -1,6 +1,6 @@
 
-const clientId = '1a2afc7c51404b20a656a1559c7dd648';
-const redirectURI = 'http://rob_playlist_maker.surge.sh';
+const clientId = 'enter your client id';
+const redirectURI = 'http://localhost:3000';
 let userAccessToken;
 
 
